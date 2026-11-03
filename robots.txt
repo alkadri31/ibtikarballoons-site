@@ -1,3 +1,4 @@
+# Deployed via GitHub + cPanel Git
 User-agent: *
 Allow: /
 
