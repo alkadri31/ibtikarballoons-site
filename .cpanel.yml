@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ibtikaru/ibtikarballoons/
+    - /usr/bin/rsync -a --exclude='.git' --exclude='.gitignore' --exclude='.cpanel.yml' --exclude='_headers' --exclude='.htaccess' --exclude='README.md' ./ $DEPLOYPATH

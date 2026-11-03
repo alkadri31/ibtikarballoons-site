@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ibtikarballoons.ae/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ibtikarballoons.ae/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ibtikarballoons.ae/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ibtikarballoons.ae/"/>
+  </url>
+  <url>
+    <loc>https://ibtikarballoons.ae/ar/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ibtikarballoons.ae/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ibtikarballoons.ae/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ibtikarballoons.ae/"/>
+  </url>
+  <url>
+    <loc>https://ibtikarballoons.ae/gallery/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ibtikarballoons.ae/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ibtikarballoons.ae/ar/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ibtikarballoons.ae/gallery/"/>
+  </url>
+  <url>
+    <loc>https://ibtikarballoons.ae/ar/gallery/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ibtikarballoons.ae/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ibtikarballoons.ae/ar/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ibtikarballoons.ae/gallery/"/>
+  </url>
+</urlset>
